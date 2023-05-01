@@ -17,7 +17,7 @@ body{
     position: relative;
     background-color: aqua;
     border-radius: 80px;
-    border: grey 1px solid;
+    border: rgb(0, 0, 0) 5px double;
     
 }
 

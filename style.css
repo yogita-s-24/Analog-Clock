@@ -16,7 +16,8 @@ body{
 .container{
     position: relative;
     background-color: aqua;
-    border-radius: 10px;
+    border-radius: 80px;
+    border: grey 1px solid;
     
 }
 
